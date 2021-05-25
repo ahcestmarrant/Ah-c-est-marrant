@@ -1,9 +1,10 @@
 # Comment en voir plus
 
-Tu peux en voir plus en __rejoignant__ un super groupe où c'est marrant.
-Pour cela, tu peux demander ton __adhésion__ à quelqu'un qui demandera à quelqu'un qui demandera à quelqu'un de t'inscrire dans ce super groupe.
+Si ce site ne te suffit pas, tu peux en voir plus en __rejoignant__ un super groupe `où c'est marrant`.
+Pour cela, tu peux demander ton __adhésion__ à un proche autour de toi qui demandera à quelqu'un qui demandera à quelqu'un de t'inscrire dans ce super groupe __Whatsapp__.
 
-Comme ça on évite tout ce qui est RGPD sur ce site. Tu vois, être marrant, c'est être légal sans devoir passer 10 jours à se demander si c'est légal.
+En rocédant comme ça on évite tout ce qui est RGPD sur ce site. Tu vois, être marrant, c'est être légal sans devoir passer 10 jours à se demander si c'est légal 💪.
+Nous pensons que tu commences à comprendre.
 
 # Charte ACM
 
