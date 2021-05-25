@@ -1,37 +1,22 @@
-## Welcome Ah Cest Marrant
+# Ah C'est Marrant
 
-You can use the [editor on GitHub](https://github.com/ahcestmarrant/public/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenue sur le site où c'est marrant.
+## Charte
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Tout ce qui est fait doit être fait en se posant la question : `Est-ce marrant ? `
+2. Assurons nous de rester dans la légalité
+3.  Plus il y a de `a` plus c'est marrant
+4. Aa
+5. Aaa
+6. Aaaa
+7. Aaaaa
+8. Aaaaaa
+9. Aaaaaaa
 
-### Markdown
+## En voir plus
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tu peux demander ton adhésion en demandant à quelqu'un qui demander à quelqu'un qui demandera à quelqu'un de t'inscrire dans un super groupe où c'est marrant.
 
-```markdown
-Syntax highlighted code block
+Comme ça on évite tout ce qui est RGPD sur ce site. Tu vois, être marrant, c'est être légal sans les emmerdes.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahcestmarrant/public/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# A + !
