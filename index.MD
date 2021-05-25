@@ -1,4 +1,4 @@
-# Ah C'est Marrant
+## Ah C'est Marrant
 
 Bienvenue sur le site où c'est marrant.
 ## Charte
@@ -19,4 +19,4 @@ Tu peux demander ton adhésion en demandant à quelqu'un qui demander à quelqu'
 
 Comme ça on évite tout ce qui est RGPD sur ce site. Tu vois, être marrant, c'est être légal sans les emmerdes.
 
-# A + !
+## A + !
